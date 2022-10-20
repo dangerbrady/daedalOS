@@ -27,26 +27,6 @@ export const bookmarks: Bookmark[] = [
     name: "daedalOS",
     url: "https://dustinbrett.com/",
   },
-  {
-    icon: "/System/Icons/Favicons/win96.webp",
-    name: "Windows 96",
-    url: "https://windows96.net/",
-  },
-  {
-    icon: "/System/Icons/Favicons/aos.webp",
-    name: "AaronOS",
-    url: "https://aaronos.dev/",
-  },
-  {
-    icon: "/System/Icons/Favicons/minecraft.webp",
-    name: "Minecraft Classic",
-    url: "https://classic.minecraft.net/",
-  },
-  {
-    icon: "/System/Icons/Favicons/diablo.webp",
-    name: "Diablo",
-    url: "https://d07riv.github.io/diabloweb/",
-  },
 ];
 
 export const config = {
